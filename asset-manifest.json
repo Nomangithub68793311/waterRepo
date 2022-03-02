@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f5dcb70.css",
+    "main.js": "/static/js/main.725b8c2e.js",
+    "static/js/787.af814563.chunk.js": "/static/js/787.af814563.chunk.js",
+    "static/media/waterthree.png": "/static/media/waterthree.1dcbf85326b08a394a54.png",
+    "static/media/waterTwo.jpg": "/static/media/waterTwo.aee1b8b18250ba732130.jpg",
+    "static/media/waterOne.jpg": "/static/media/waterOne.5b457587bb0c718d7f50.jpg",
+    "static/media/backgroundTwo.jpg": "/static/media/backgroundTwo.2dcf886c52e1c4886d8a.jpg",
+    "static/media/backbround.jpg": "/static/media/backbround.91d514b4d23e1d616279.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.4f5dcb70.css.map": "/static/css/main.4f5dcb70.css.map",
+    "main.725b8c2e.js.map": "/static/js/main.725b8c2e.js.map",
+    "787.af814563.chunk.js.map": "/static/js/787.af814563.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f5dcb70.css",
+    "static/js/main.725b8c2e.js"
+  ]
+}
